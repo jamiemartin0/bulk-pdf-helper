@@ -12,5 +12,4 @@
 
 
 # DEPENDENCY:
-	pip install [PyPDF2](https://pypi.org/project/PyPDF2/)
-	
+	pip install PyPDF2
